@@ -1,4 +1,4 @@
-FROM bitnami/sonarqube
+FROM bitnami/sonarqube:8
 
 ## Configuration for Jenkins build pipelines
 
